@@ -22,10 +22,10 @@ Cara Menjalankan:
 6. Kalahkan bos untuk memenangkan setiap level
 
 Implementasi Objek Oriented Programming (OOP):
-1. Abstraksi dan Enkapsulasi data melalui Class
+1. Abstraksi dan Enkapsulasi data melalui Class.
 program ini menggunakan class untuk membungkus data (attribut) dan perilaku (method) menjadi satu kesatuan objek yang logis.
 
-class Room:
+# **class Room:**
     def __init__(self, x, y, w, h): # Konstruktor untuk inisialisasi objek
         self.x1, self.y1 = x, y
         # ... (enkapsulasi koordinat)
