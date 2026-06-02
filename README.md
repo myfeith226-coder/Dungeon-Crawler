@@ -41,11 +41,11 @@ class ini digunakan sebagai template untuk menciptakan ruangan-ruangan di dalam 
 2. Polimorfisme dan Pewarisan (Inheritance) melalui Pygame Sprite
 
 grup_musuh = pygame.sprite.Group()
-# ...
+
 grup_musuh.add(musuh_biasa)
 grup_musuh.add(boss)
 
-# Di dalam Game Loop (Polimorfisme bekerja di sini)
+Di dalam Game Loop (Polimorfisme bekerja di sini)
 grup_musuh.update(ksatria, tembok_aktif)
 
 Penggunaan pygame.sprite.Group()
