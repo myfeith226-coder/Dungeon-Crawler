@@ -61,3 +61,6 @@ Di dalam game loop terjadi interaksi:
 
 - Objek Senjata(pedang) dengan Player: pedang.update(ksatria) -> Objek pedang membaca posisi dan arah dari obhek ksatria agar posisi senjata selalu menempel di tangan karakter.
 
+<img width="1920" height="1080" alt="Screenshot from 2026-06-02 23-24-18" src="https://github.com/user-attachments/assets/ec1f85e2-77e6-46a0-ab7b-5d0f017e092a" />
+<img width="1920" height="1080" alt="Screenshot from 2026-06-02 23-24-25" src="https://github.com/user-attachments/assets/20767bb2-0b63-4888-a8d4-1818766c6d7a" />
+
