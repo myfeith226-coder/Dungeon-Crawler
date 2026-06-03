@@ -60,3 +60,4 @@ Di dalam game loop terjadi interaksi:
 - Objek Musuh dengan Player: grup_musuh.update(ksatria, walss) -> objek musuh diberikan referensi objek kesatria agar AI musuh mengetahui posisi koordinat pemain untuk di kejar.
 
 - Objek Senjata(pedang) dengan Player: pedang.update(ksatria) -> Objek pedang membaca posisi dan arah dari obhek ksatria agar posisi senjata selalu menempel di tangan karakter.
+
